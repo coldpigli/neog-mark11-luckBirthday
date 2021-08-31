@@ -1,1 +1,2 @@
-Hi
+Hi! Lucky-Birthday is made in an attempt to reach Mark15 which is the prerequisite to get into NeoGcamp.
+Lucky-Birthday is a simple web app that takes your Birthday and lucky number as input and predicts if your birthday is lucky or not.
